@@ -8,3 +8,5 @@
 - ⚡ Fun fact: there might be something fun behind anything new, so why not trying?
 
 Stack technique : 
+ - https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) | ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) | ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png) |
