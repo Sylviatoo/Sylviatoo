@@ -4,7 +4,7 @@
 - 👩‍💻 I also started to learn on my own (Java, PHP, MongoDB)
 - 💞️ I’m looking for job opportunities as developer front, back-end or full stack (preferably) for my first mission 
 - 📫 You can reach me through email (sylviabarraud2@gmail.com) or linkedin (https://www.linkedin.com/in/sylviabarraud/)
-- 😄 Hobby/Passion : learning new things (languages, guitar, anything), being the host of my language exchange event, cooking and more importantly eating 🍔🌯🍰🌭🍪🧀
+- 😄 Hobby/Passion : learning new things (languages, guitar, anything), being the host of my language exchange event, cooking and more importantly eating 🍔🥘🍰🌭🍪🧀
 - ⚡ Fun fact: there might be something fun behind anything new, so why not try?
 
 # Stacks Techniques
