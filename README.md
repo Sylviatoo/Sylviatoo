@@ -7,7 +7,10 @@
 - 😄 Hobby/Passion : learning new things (languages, guitar, anything), hosting on a language exchange event, cooking and more importantly eating
 - ⚡ Fun fact: there might be something fun behind anything new, so why not trying?
 
-Stack technique : 
- - https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+# Stacks Techniques
 
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png "JavaScript")
+| Frontend       | Backend        | Outils DevOps  |
+|----------------|----------------|----------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png" alt="Docker" width="50"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman
