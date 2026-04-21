@@ -1,13 +1,27 @@
-- 👋 Hi, I’m Sylvia
-- 👀 I’m interested in back-end and cloud environnement (I have an AWS cloud practitioner certification)
-- 🌱 I’m currently learning programming languages (HTML & CSS, Javascript, React, Express, Node.js, MySQL)
-- 👩‍💻 I also started to learn on my own (Java, PHP, MongoDB)
-- 💞️ I’m looking for job opportunities as developer front, back-end or full stack (preferably) for my first mission 
-- 📫 You can reach me through email (sylviabarraud2@gmail.com) or linkedin (https://www.linkedin.com/in/sylviabarraud/)
-- 😄 Hobby/Passion : learning new things (languages, guitar, anything), being the host of my language exchange event, cooking and more importantly eating 🍔🥘🍰🌭🍪🧀
-- ⚡ Fun fact: there might be something fun behind anything new, so why not try?
+👋 Hi, I’m Sylvia
+👀 I’m now focused on network engineering and infrastructure
+🌐 I’m currently in an Expert Network training program, working with enterprise-grade technologies
+🧠 I’m learning and practicing: HP & Cisco environments, MPLS, SD-WAN, Fortinet firewalls, Layer 2 switching & Spanning Tree configuration
+🔧 I enjoy designing, configuring, and troubleshooting network architectures
+💞️ I’m looking for opportunities in network engineering / infrastructure / cybersecurity (junior or apprenticeship roles)
+📫 You can reach me through email (sylviabarraud2@gmail.com) or linkedin (https://www.linkedin.com/in/sylviabarraud/)
+😄 Hobby/Passion: learning new things (languages, guitar, anything), hosting language exchange events, cooking and of course eating 🍔🥘🍰🌭🍪🧀
+⚡ Fun fact: there’s always something interesting behind new technologies—so I like to explore them
 
-# Stacks Techniques
+🧰 Technical Stack
+| Networking & Infrastructure | Security                | Tools & Environment |
+| --------------------------- | ----------------------- | ------------------- |
+| Cisco (Routing & Switching) | Fortinet (Firewalls)    | Wireshark           |
+| HP Networking               | Network Security Basics | Packet Tracer       |
+| MPLS                        | VPN / Segmentation      | Linux               |
+| SD-WAN                      | Firewall Configuration  | Git / GitHub        |
+| Layer 2 Switching           |                         | AWS / Docker        |
+| Spanning Tree Protocol      |                         | Terraform / Ansible |
+
+
+💡 Previously, I gained a first experience in software development (full-stack) after working as a project manager. This background helps me better understand application needs and bridge the gap between development and infrastructure.
+
+# Previous stacks Techniques
 
 | Frontend       | Backend        | Outils DevOps  |
 |----------------|----------------|----------------|
